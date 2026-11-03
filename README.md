@@ -35,13 +35,13 @@ As a team of a secret Foundation you study anomalies instead of running from the
 
 <p><img src="docs/clo_en.png" alt="Clearance Level One in the launcher" width="720"></p>
 
-<p><img src="docs/ttt_logo.png" alt="TTT" height="80"></p>
+<p><img src="docs/turncoat_logo.png" alt="Turncoat" height="80"></p>
 
-**TTT** · *Beta* · multiplayer traitor game
+**Turncoat** · *Beta* · multiplayer traitor game (formerly TTT)
 
-Traitors are hiding among you – find them with detective tools before they take you out with C4, traps and tricks. 12 detailed maps, a lobby code to join without port forwarding, and a bus that drives you from round to round.
+*One of you is a turncoat.* Traitors are hiding among you – find them with detective tools before they take you out with C4, traps and tricks. 12 detailed maps, a lobby code to join without port forwarding, and a bus that drives you from round to round.
 
-<p><img src="docs/ttt_en.png" alt="TTT in the launcher" width="720"></p>
+<p><img src="docs/turncoat_en.png" alt="Turncoat in the launcher" width="720"></p>
 
 ## Features
 
