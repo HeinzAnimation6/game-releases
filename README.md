@@ -29,7 +29,7 @@ No admin rights and no GitHub account needed.
 
 <p><img src="docs/clo_logo.png" alt="Clearance Level One" height="60"></p>
 
-**Clearance Level One** · *Alpha* · co-op horror for 2–5 players
+**Clearance Level One** · *Alpha* · co-op horror for 1–5 players
 
 As a team of a secret Foundation you study anomalies instead of running from them. Run tests, find out their hidden rules, write the report and expand your site – until something breaks out.
 
