@@ -5,10 +5,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/HeinzAnimation6/game-releases/releases/download/launcher/Heinz-Launcher-Setup.exe"><b>⬇ Download Heinz-Launcher-Setup.exe</b></a>
+  <a href="https://github.com/HeinzAnimation6/game-releases/releases/download/launcher/Heinz-Launcher-Setup.exe"><b>⬇ Download for Windows</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/HeinzAnimation6/game-releases/releases/download/launcher/Heinz-Launcher-Linux.zip"><b>🐧 Download for Linux</b></a>
   &nbsp;·&nbsp;
   <a href="https://discord.gg/RmmRP88ZGW"><b>💬 Join the Discord</b></a>
-  <br><sub>Windows 10 / 11 · 64-bit · free</sub>
+  <br><sub>Windows 10 / 11 or Linux · 64-bit · free</sub>
 </p>
 
 <p align="center"><img src="docs/home_en.png" alt="Heinz Launcher home page" width="820"></p>
@@ -24,6 +26,14 @@ No admin rights and no GitHub account needed.
 
 > **Windows says "Windows protected your PC"?**
 > That happens with small programs without a paid certificate. Click **More info**, then **Run anyway**.
+
+### Linux
+
+1. **[Download Heinz-Launcher-Linux.zip](https://github.com/HeinzAnimation6/game-releases/releases/download/launcher/Heinz-Launcher-Linux.zip)**
+2. Unzip it anywhere and start `HeinzLauncher.x86_64`. On first start it adds itself to your app menu.
+3. Pick a game and click **Install**.
+
+Linux support is new and **untested** so far – feedback on the Discord is very welcome. Games without a Linux build (currently Turncoat) are shown as "Windows only".
 
 ## Games
 
