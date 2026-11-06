@@ -47,7 +47,7 @@ As a team of a secret Foundation you study anomalies instead of running from the
 
 <p><img src="docs/turncoat_logo.png" alt="Turncoat" height="80"></p>
 
-**Turncoat** · *Beta* · multiplayer traitor game (formerly TTT)
+**Turncoat** · multiplayer traitor game (formerly TTT)
 
 *One of you is a turncoat.* Traitors are hiding among you – find them with detective tools before they take you out with C4, traps and tricks. 12 detailed maps, a lobby code to join without port forwarding, and a bus that drives you from round to round.
 
